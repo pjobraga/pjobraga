@@ -2,7 +2,7 @@
 <h3 align="center">Especialista em Infraestrutura de TI · Engenheiro de Computação · Cloud Híbrida & Alta Disponibilidade · Segurança de Redes</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-jorge-o-59b52b16b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/pjobraga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pjobraga98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
