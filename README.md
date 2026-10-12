@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Pedro Braga 👋</h1>
-<h3 align="center">Analista de Infraestrutura Pleno · Virtualização · Cloud · Automação</h3>
+<h3 align="center">Analista de Infraestrutura Pleno @ Open Datacenter · Virtualização · Cloud · Automação</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-jorge-o-59b52b16b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,7 +10,7 @@
 
 ### 🖥️ Sobre mim
 
-Sou **Analista de Infraestrutura Pleno** e trabalho principalmente com **virtualização e infraestrutura em nuvem**. No meu dia a dia, provisiono, mantenho e otimizo ambientes em **VMware ESXi**, **Proxmox VE** e **Microsoft Hyper-V**.
+Sou **Analista de Infraestrutura Pleno** na **Open Datacenter**, onde atuo há mais de 2 anos com **virtualização e infraestrutura em nuvem**. No meu dia a dia, provisiono, mantenho e otimizo ambientes em **VMware ESXi**, **Proxmox VE** e **Microsoft Hyper-V**.
 
 Gosto de entender como as coisas funcionam por baixo. Por isso tenho base em **Assembly**, e uso esse conhecimento de baixo nível para automatizar tarefas repetitivas com scripts e prompts e para desenvolver **APIs** que integram sistemas.
 
