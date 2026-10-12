@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou o Pedro Braga 👋</h1>
-<h3 align="center">Analista de Infraestrutura Pleno @ Open Datacenter · Virtualização · Cloud · Automação</h3>
+<h1 align="center">Pedro Jorge Oliveira Braga</h1>
+<h3 align="center">Especialista em Infraestrutura de TI · Engenheiro de Computação · Cloud Híbrida & Alta Disponibilidade · Segurança de Redes</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-jorge-o-59b52b16b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -8,29 +8,32 @@
 
 ---
 
-### 🖥️ Sobre mim
+### Sobre mim
 
-Sou **Analista de Infraestrutura Pleno** na **Open Datacenter**, onde atuo há mais de 2 anos com **virtualização e infraestrutura em nuvem**. No meu dia a dia, provisiono, mantenho e otimizo ambientes em **VMware ESXi**, **Proxmox VE** e **Microsoft Hyper-V**.
+Engenheiro de Computação pela **PUC Goiás** e **Analista de Infraestrutura de TI Pleno** na **Open Data Center** desde 2024, com trajetória em ambientes de missão crítica e alta disponibilidade.
 
-Gosto de entender como as coisas funcionam por baixo. Por isso tenho base em **Assembly**, e uso esse conhecimento de baixo nível para automatizar tarefas repetitivas com scripts e prompts e para desenvolver **APIs** que integram sistemas.
+Atuo com virtualização em **VMware ESXi**, **Proxmox VE** e **Microsoft Hyper-V**, incluindo gestão de clusters e migrações de máquinas virtuais. No dia a dia, administro servidores **Windows e Linux**, **Active Directory**, plataformas de acesso remoto (**TSPlus**, **RDWeb**) e redes corporativas com firewalls **pfSense** e **MikroTik**, com monitoramento proativo em **Zabbix**.
 
-- 🔧 Virtualização: clusters, alta disponibilidade, migração e backup de VMs
-- ☁️ Infraestrutura em nuvem e on-premises
-- 🤖 Automação de rotinas com scripts e prompts de IA
-- 🔌 Criação de APIs REST
-- 📚 Sempre estudando: DevOps, containers e infraestrutura como código
+Tenho base em **Assembly** e programação, que uso para automatizar rotinas com scripts e prompts de IA e para desenvolver **APIs** que integram sistemas.
 
 ---
 
-### 🧰 Tecnologias
+### Tecnologias
 
-**Virtualização & Infra**
+**Virtualização & Infraestrutura**
 
 ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+**Redes, Segurança & Monitoramento**
+
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 
 **Automação & Desenvolvimento**
 
@@ -45,11 +48,22 @@ Gosto de entender como as coisas funcionam por baixo. Por isso tenho base em **A
 
 ---
 
-### 📂 Projetos em destaque
+### Trajetória
+
+| Período | Cargo | Empresa |
+|---|---|---|
+| 2024 – atual | Analista de Infraestrutura de TI Pleno | Open Data Center |
+| 2023 – 2024 | Operador de Data Center Jr | Everest Digital |
+| 2021 – 2023 | Analista de Suporte Técnico | Neovita |
+| 2018 – 2019 | Estagiário de TI | UzaaCom TI |
+
+---
+
+### Projetos em destaque
 
 | Projeto | Descrição |
 |---|---|
-| [api-hortifruti-pratico](https://github.com/pjobraga/api-hortifruti-pratico) | API em TypeScript para um app de hortifruti |
+| [api-hortifruti-pratico](https://github.com/pjobraga/api-hortifruti-pratico) | API em TypeScript (AdonisJS) para um app de hortifruti |
 | [devops_mao_na_massa](https://github.com/pjobraga/devops_mao_na_massadevops_mao_na_massa) | Estudos práticos de DevOps |
 | [Django-estudos](https://github.com/pjobraga/Django-estudos) | Projetos com Python e Django |
 | [Python](https://github.com/pjobraga/Python) | Exercícios práticos em Python |
