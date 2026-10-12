@@ -63,8 +63,8 @@ Tenho base em **Assembly** e programação, que uso para automatizar rotinas com
 
 | Projeto | Descrição |
 |---|---|
-| [api-hortifruti-pratico](https://github.com/pjobraga/api-hortifruti-pratico) | API em TypeScript (AdonisJS) para um app de hortifruti |
-| [devops_mao_na_massa](https://github.com/pjobraga/devops_mao_na_massadevops_mao_na_massa) | Estudos práticos de DevOps |
+| [api-hortifruti-pratico](https://github.com/pjobraga/api-hortifruti-pratico) | API em TypeScript (AdonisJS) para um app de hortifruti (arquivado) |
+| [devops-mao-na-massa](https://github.com/pjobraga/devops-mao-na-massa) | Estudos práticos de DevOps |
 | [Django-estudos](https://github.com/pjobraga/Django-estudos) | Projetos com Python e Django |
 | [Python](https://github.com/pjobraga/Python) | Exercícios práticos em Python |
 
